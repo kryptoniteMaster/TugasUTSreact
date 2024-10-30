@@ -1,5 +1,7 @@
 # React + Vite
 
+this is my web link: https://tugas-uts-react-7mht-4yl4sopgx-kryptonitemasters-projects.vercel.app
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
